@@ -1,4 +1,4 @@
-# DSA_Tech_Drill
+# DSA_Tech_Drill (Java & Python)
 Tech Interview Prep Journey- covering 
 - Data Structure & Algorithms, 
 - LL Design & 
@@ -18,6 +18,9 @@ Tech Interview Prep Journey- covering
 - Trees and Graphs (Traversals, DP)
 
 ## Algo/ Coding Patterns
+<details>
+  <summary>Click to expand!</summary>
+
 - Sliding window(Acquire-Settle-Release Method)
 - Two pointers
 - Fast and slow Pointers
@@ -46,15 +49,24 @@ Tech Interview Prep Journey- covering
 - Using 256 Integer array for String Problems
 - Layering method for 2d arrays
 - Meet in the Middle Technique
+</details>
 
 ### Recursion Patterns
+<details>
+  <summary>Check</summary>
+  
 - Iteration
 - Subproblems
 - Selections
 - Ordering
 - Divide and Conquer
 
+</details>
+
 ### [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions)
+<details>
+  <summary>Check</summary>
+  
 - 0/1 Knapsack
 - Unbounded Knapsack
 - Fibonacci Numbers
@@ -66,6 +78,8 @@ Tech Interview Prep Journey- covering
 - Cuts Based Questions
 - Include Exclude Array Strategy Based Questions
 
+</details>
+
 ## Leetcode Plan/ Questions List:
 - [Teamblind’s 75 leetcode Questions]()
 - 30 Days to your Dream Company by take U Forward
@@ -74,10 +88,27 @@ Tech Interview Prep Journey- covering
 - Afteracademy Interview Preparation Kit Questions
 - [Byte by Byte 50 Questions](https://www.byte-by-byte.com/)
 - Leetcode preparation Plan by interviewhelp.io
+- [List of lists](https://gist.github.com/avidLearnerInProgress/1c0d49f5069bc45712ddd5e70c11d2d9)
 
 ## Design
 
 ## Resources
 
 - Books
+  - Check in [Resources Folder](https://github.com/AasthaGithub/DSA_Tech_Drill/tree/main/Resources)
+  - Tired of reading pdfs? Here's something interactive: [Interactive Python Book by Runstone Academy](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - Youtube channels
+
+## To plan your journey
+- [Interview Roadmap by Byte by Byte](https://www.byte-by-byte.com/interview-roadmap)
+- [Extensive Plan by School of AI Kollam's Amal Roy](https://github.com/AasthaGithub/DSA_Tech_Drill/blob/main/Resources/Coding_interview_Strategy.pdf)
+- [TechInterview Hand Book](https://yangshun.github.io/tech-interview-handbook/introduction)
+
+Trello Resources
+
+- [interview-prep-public](https://trello.com/b/s2RIS23E/interview-prep-public)
+- [code-interview-resource-board](https://trello.com/b/lpp1l94G/code-interview-resource-board)
+- [Vimeo](https://vimeo.com/user100948122)
+- [Leet Plan](https://trello.com/b/JuklKVMn/leetcode-preparation-plan)
+- [coding-interview-what-to-expect](https://xiaoyunyang.github.io/post/the-coding-interview-what-to-expect/#system-design)
+
