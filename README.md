@@ -77,11 +77,12 @@ Tech Interview Prep Journey- covering
 - Catalan Number Based Questions
 - Cuts Based Questions
 - Include Exclude Array Strategy Based Questions
+- Riddhi Dutta's: [DP Sheet](https://docs.google.com/document/d/16ad4qAlNKZGkYpaUutIYuA6l-YLyOm2AIYruNsfetJM/edit)
 
 </details>
 
 ## Leetcode Plan/ Questions List:
-- [Teamblind’s 75 leetcode Questions]()
+- [Teamblind’s 75 leetcode Questions](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - 30 Days to your Dream Company by take U Forward
 - [170+ leetcode Questions by Sean Prasad](https://github.com/SeanPrashad/leetcode-patterns)
 - Pepcoding’s 500 Problems List and Notes
@@ -89,6 +90,7 @@ Tech Interview Prep Journey- covering
 - [Byte by Byte 50 Questions](https://www.byte-by-byte.com/)
 - Leetcode preparation Plan by interviewhelp.io
 - [List of lists](https://gist.github.com/avidLearnerInProgress/1c0d49f5069bc45712ddd5e70c11d2d9)
+- [DB, Design, Java, OS - Riddhi Dutta](https://drive.google.com/drive/folders/1Nc81SW9tozoE1ERIKGUYrsQMdGI5Wz-D)
 
 ## Design
 
