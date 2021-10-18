@@ -9,3 +9,13 @@ Practise 14 pattern questions on Leetcode [list](https://www.educative.io/course
 [freecodecamp steps](https://www.freecodecamp.org/news/follow-these-steps-to-solve-any-dynamic-programming-interview-problem-cc98e508cd0e/), 
 [top10 questions](https://medium.com/techie-delight/top-10-dynamic-programming-problems-5da486eeb360); 
 Additional References: [cf explanation](https://codeforces.com/blog/entry/43256), [cf list](https://codeforces.com/blog/entry/67679)
+
+## Day 2
+- Graph Algo:
+  - Kruskal's MST algo, Union Find by Rank, Path cx
+  - Dijkstra
+  - Bellman Ford
+  - Floyd
+  - Topological
+  - Flood fill
+  - Lee's Algo
